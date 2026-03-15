@@ -1,7 +1,7 @@
 #include <iostream>
 
-#include "src/hello.hpp"
+#include "src/meet.hpp"
 
 int main() {
-  std::cout << hello() << std::endl;
+  std::cout << meet() << std::endl;
 }

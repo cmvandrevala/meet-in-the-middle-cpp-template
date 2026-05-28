@@ -19,6 +19,10 @@ Once you are inside of the build directory, you can run the following command to
 cmake .. && make
 ```
 
+## Testing the App
+
+This is one of the few labs that does not require unit tests. You do NOT have to write any unit tests for this submission.
+
 ## Running the App
 
 The `main.cpp` file at the root of the project must have a corresponding entry in `CMakeLists.txt`. After you build executables using CMake, you can run the driver program from within the `build/` directory.

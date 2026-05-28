@@ -1,5 +1,5 @@
 #include <string>
 
 std::string meet() {
-   return "You can delete this function and put your code here.";
+   return "This is an example function. You can delete it and put your code here.";
 }
